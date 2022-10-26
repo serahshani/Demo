@@ -1,2 +1,2 @@
 # Demo
--a demonstration of using github.
+a demonstration of using github.
